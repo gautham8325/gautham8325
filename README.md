@@ -13,6 +13,8 @@ Welcome to my GitHub profile! Here's a little about me:
 Feel free to check out my repositories and projects!
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gautham8325&show_icons=true&theme=radical)](https://github.com/gautham8325)
+[![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/gautham8325?theme=dark)](https://leetcode.com/gautham8325/)
+
 
 <!---
 gautham8325/gautham8325 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
