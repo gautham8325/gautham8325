@@ -1,4 +1,3 @@
-![Handshake](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
 # Hi there 👋, I'm Gautham (@gautham8325) 👨‍💻
 
