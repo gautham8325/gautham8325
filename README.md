@@ -14,7 +14,6 @@ Feel free to check out my repositories and projects!
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gautham8325&show_icons=true&theme=radical)](https://github.com/gautham8325)
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-gautham8325-orange)](https://leetcode.com/gautham8325/)
-[![LeetCode Badge](https://img.shields.io/badge/Problems%20Solved)](https://leetcode.com/gautham8325/)
 
 
 <!---
